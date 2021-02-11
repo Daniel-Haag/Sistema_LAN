@@ -1,0 +1,57 @@
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.exe.config
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.exe.manifest
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.application
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.exe
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.pdb
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\obj\Debug\OABLanServer.CadastroMaquinas.resources
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\obj\Debug\OABLanServer.CadastroUsuarios.resources
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\obj\Debug\OABLanServer.ConfigurarSessao.resources
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\obj\Debug\OABLanServer.Form1.resources
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\obj\Debug\OABLanServer.Login.resources
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.Properties.Resources.resources
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\obj\Debug\OABLanServer.csproj.GenerateResource.cache
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\obj\Debug\OABLanServer.csproj.CoreCompileInputs.cache
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.exe.manifest
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.application
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.exe
+C:\Users\danni\Desktop\MaisUmaTentativaServer - Copia\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.pdb
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.exe.config
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.exe.manifest
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.application
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.exe
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.pdb
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.CadastroMaquinas.resources
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.CadastroUsuarios.resources
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.ConfigurarSessao.resources
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.Form1.resources
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.Login.resources
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.Properties.Resources.resources
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.csproj.GenerateResource.cache
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.csproj.CoreCompileInputs.cache
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.exe.manifest
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.application
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.exe
+C:\Users\danni\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.pdb
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.exe.config
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.exe.manifest
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.application
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.exe
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\bin\Debug\MaisUmaTentativaServer.pdb
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.CadastroMaquinas.resources
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.CadastroUsuarios.resources
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.ConfigurarSessao.resources
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.Form1.resources
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.Login.resources
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.Properties.Resources.resources
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.csproj.GenerateResource.cache
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.exe.manifest
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.application
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.exe
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.pdb
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.Cadastros.resources
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.CadastroSubSecoes.resources
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.ExcluirSubSecoes.resources
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.ExcluirUsuarios.resources
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.AcessoUsuarioAdministrador.resources
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\MaisUmaTentativaServer.ExcluirMaquinasCadastradas.resources
+C:\Users\dhaag\Desktop\OABLanServer\MaisUmaTentativaServer\obj\Debug\OABLanServer.csprojAssemblyReference.cache

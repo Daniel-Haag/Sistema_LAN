@@ -1,0 +1,14 @@
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\bin\Release\MaisUmaTentativaServer.exe.config
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\bin\Release\MaisUmaTentativaServer.exe
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\bin\Release\MaisUmaTentativaServer.pdb
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\obj\Release\MaisUmaTentativaServer.CadastroMaquinas.resources
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\obj\Release\MaisUmaTentativaServer.Form1.resources
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\obj\Release\MaisUmaTentativaServer.Properties.Resources.resources
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\obj\Release\MaisUmaTentativaServer.csproj.GenerateResource.cache
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\obj\Release\MaisUmaTentativaServer.csproj.CoreCompileInputs.cache
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\obj\Release\MaisUmaTentativaServer.exe
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\obj\Release\MaisUmaTentativaServer.pdb
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\bin\Release\MaisUmaTentativaServer.exe.manifest
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\bin\Release\MaisUmaTentativaServer.application
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\obj\Release\MaisUmaTentativaServer.exe.manifest
+C:\Users\danni\Desktop\MaisUmaTentativaServer\MaisUmaTentativaServer\obj\Release\MaisUmaTentativaServer.application
